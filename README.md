@@ -74,3 +74,5 @@
 
 ## 🔎 프로젝트 역할 분배
 <img src="https://github.com/kybaq/3-feet/assets/157561573/508302ed-707b-4996-bbd6-13926de8c96e" alt="" width="700" />
+
+## 🔗 팀노션[https://teamsparta.notion.site/B11-b85dbd1a9ab749e7ab60ad56dea89326]
